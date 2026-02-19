@@ -1,11 +1,11 @@
 ---
-title: "Epilepsy Bullying Internalising up to 16"
-output: html_document
-date: "2025-04-27"
+# title: "Epilepsy Bullying Internalising up to 16"
+# output: html_document
+# date: "2025-04-27"
 ---
-Rename and recode existing variables from the NCDS dataset (0 to 16 years).
+# Rename and recode existing variables from the NCDS dataset (0 to 16 years).
 
-Please note that the code creates new recoded variables based on a recoding_rules list and deletes original variables. This part of the code can be optioned out if original variables need to be retained.
+# Please note that the code creates new recoded variables based on a recoding_rules list and deletes original variables. This part of the code can be optioned out if original variables need to be retained.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(haven)
