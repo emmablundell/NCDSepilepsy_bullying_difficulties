@@ -12,7 +12,8 @@ Analysis code and results for the study
 </p>
 
 ### Publication status
-In submission
+Published as:
+- Blundell M, Bell V, Yau K-C (2026) Bullying victimisation as a mediator in the association between childhood epilepsy and later emotional and behavioural difficulties: Evidence from the British National Child Development Study. *Epilepsy and Behavior* https://doi.org/10.1016/j.yebeh.2026.110986
 
 ### Archive contents
 This archive contains the [R](https://en.wikipedia.org/wiki/R_(programming_language)) code for the analysis reported in the above study.
